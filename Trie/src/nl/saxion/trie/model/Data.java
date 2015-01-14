@@ -20,5 +20,8 @@ public class Data {
 	public ArrayList<Integer> getPositions() {
 		return this.data;
 	}
-	
+	public ArrayList<Integer> getnew()
+	{
+		return null;
+	}
 }
